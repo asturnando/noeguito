@@ -1,0 +1,19 @@
+# Videos y audio
+*.mp4
+*.mp3
+*.zip
+
+# Capturas VLC en raíz
+vlcsnap-*.png
+
+# Carpeta de vídeo de presentación
+video uno/
+video uno.zip
+
+# Claude Code (configuración local)
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

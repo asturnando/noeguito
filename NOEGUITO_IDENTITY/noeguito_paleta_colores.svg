@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" font-family="Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="860" height="260" fill="#FAFAF8" rx="12"/>
+
+  <!-- Title -->
+  <text x="430" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#2D3D34">NOEGUITO — Paleta de Colores Oficial</text>
+
+  <!-- Swatch 1: Cuerpo -->
+  <rect x="30"  y="55" width="110" height="110" rx="10" fill="#F0EEEB" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="85"  y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#555">#F0EEEB</text>
+  <text x="85"  y="200" text-anchor="middle" font-size="10" fill="#777">Cuerpo</text>
+
+  <!-- Swatch 2: Gorra / Delantal -->
+  <rect x="160" y="55" width="110" height="110" rx="10" fill="#3A5040"/>
+  <text x="215" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#555">#3A5040</text>
+  <text x="215" y="200" text-anchor="middle" font-size="10" fill="#777">Gorra · Delantal</text>
+
+  <!-- Swatch 3: Detalle oscuro -->
+  <rect x="290" y="55" width="110" height="110" rx="10" fill="#2D3D34"/>
+  <text x="345" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#555">#2D3D34</text>
+  <text x="345" y="200" text-anchor="middle" font-size="10" fill="#777">Detalle oscuro</text>
+
+  <!-- Swatch 4: Sombra media -->
+  <rect x="420" y="55" width="110" height="110" rx="10" fill="#4A6050"/>
+  <text x="475" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#555">#4A6050</text>
+  <text x="475" y="200" text-anchor="middle" font-size="10" fill="#777">Sombra media</text>
+
+  <!-- Swatch 5: Hojas -->
+  <rect x="550" y="55" width="110" height="110" rx="10" fill="#C5D8C5" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="605" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#555">#C5D8C5</text>
+  <text x="605" y="200" text-anchor="middle" font-size="10" fill="#777">Hojas</text>
+
+  <!-- Swatch 6: Mejillas -->
+  <rect x="680" y="55" width="110" height="110" rx="10" fill="#F2A8A0"/>
+  <text x="735" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#555">#F2A8A0</text>
+  <text x="735" y="200" text-anchor="middle" font-size="10" fill="#777">Mejillas</text>
+
+  <!-- Footer note -->
+  <text x="430" y="240" text-anchor="middle" font-size="10" fill="#999">Ojos / contornos: #1A1A1A  ·  Taza: #2B1F18  ·  Vapor: #E8E8E8</text>
+
+</svg>
