@@ -6,9 +6,12 @@
 # Capturas VLC en raíz
 vlcsnap-*.png
 
-# Carpeta de vídeo de presentación
-video uno/
+# Zip del vídeo (redundante con la carpeta)
 video uno.zip
+
+# Excepción: los mp4 pequeños de "video uno" sí se suben
+!video uno/
+!video uno/*.mp4
 
 # Claude Code (configuración local)
 .claude/
